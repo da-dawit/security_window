@@ -1,6 +1,8 @@
 # Security Window
 
-A motorized security window grille designed in SolidWorks. A geared DC motor drives the bar grille along its frame through a gear-and-pinion train, and a second motor-driven rack mechanism at the top locks it in place.
+A motorized security window grille for *banjiha* (semi-basement) homes, designed in SolidWorks. It is robust and strong in normal use. In an emergency, a geared DC motor drives the grille's top rectangular frame upward through a gear-and-pinion train, and a second motor at the bottom frame rotates a rack mechanism that releases the bars so residents can evacuate.
+
+IoT and AI models were connected to the system later. This repository covers only the hardware and mechanical design.
 
 ![Isometric view](pictures/isometric.png)
 
