@@ -6,6 +6,13 @@ IoT and AI models were connected to the system later. This repository covers onl
 
 ![Isometric view](pictures/isometric.png)
 
+## Emergency Release
+
+| 1. Top frame raised | 2. Bars released |
+|:---:|:---:|
+| <img src="pictures/open.png" width="400"> | <img src="pictures/open2.png" width="400"> |
+| The top frame is lifted and held up, either manually or by the gear-and-pinion drive. | The bottom frame rotates and lets the bars swing down to the ground, clearing the window for evacuation. |
+
 ## Views
 
 | Front | Top | Bottom |
