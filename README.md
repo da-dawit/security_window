@@ -25,9 +25,9 @@ IoT and AI models were connected to the system later. This repository covers onl
 
 ## Drive Mechanism
 
-| Motor and gear train | Bearing housing | Shaft and bearing |
+| Rack-and-pinion lift | Motor and gear train | Bearing housing |
 |:---:|:---:|:---:|
-| <img src="pictures/drive_detail.png" width="280"> | <img src="pictures/bearing_housing.png" width="220"> | <img src="pictures/shaft_bearing.png" width="280"> |
+| <img src="pictures/rack_pinion_lift.png" width="280"> | <img src="pictures/drive_detail.png" width="280"> | <img src="pictures/bearing_housing.png" width="220"> |
 
 ## Components
 
